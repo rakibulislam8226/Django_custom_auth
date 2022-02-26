@@ -1,6 +1,6 @@
 # Django_custom_auth
 there is no deep programming. just a simple custom authentication.
-login
+login <br>
 logout
 register
 reset password
