@@ -1,8 +1,8 @@
 # Django_custom_auth
-there is no deep programming. just a simple custom authentication.
+There is no deep programming. just a simple custom authentication.<br>
 login <br>
-logout
-register
-reset password
-change password
+logout <br>
+register<br>
+reset password<br>
+change password<br>
 using email the admin will send a message to recover password. 
